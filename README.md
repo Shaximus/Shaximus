@@ -18,7 +18,7 @@ Following **1,300+ unattributed clones across 400+ unique IPs**, Reflexion Softw
 
 Subscribers receive an authenticated `sk_brain_*` API key unlocking:
 - Direct download of **`semantic_compiler_kernel-3.8.0-py3-none-any.whl`**, **`.tar.gz`**, and **`SHA256SUMS.txt`** from private Cloudflare R2
-- Live access to the **16-Entry Central Brain Decompression Database** (`8 GOLD` + `8 SILVER`)
+- Live access to the **17-Entry Central Brain Decompression Database** (`9 GOLD` + `8 SILVER`)
 - Live **Remote Streamable HTTP MCP Server** (`/mcp`) & **Best-Model-for-the-Job Smart Task Router**
 - Private GitHub repository access on **Lifetime Founding** and **Enterprise** tiers
 
@@ -41,7 +41,7 @@ Subscribers receive an authenticated `sk_brain_*` API key unlocking:
 
 ## What's Inside Reflexion Software Labs
 
-- **Semantic Compiler Kernel (`V3.8.0`)** — Evidence-conditioned, cross-domain semantic compilation pipeline featuring **46 YAML domain templates**, the **Japanese Automated Parking Tower Domain Elevator** (O(1) inverted rack index, ~20x `SemanticTicket` compression, cross-domain turntable `rotate_to()`, ~108x cold-start JSON cache), **16 SHA-256-verified canonical compiled entries** (`SC-DIVINE-RLHF-001`, `SC-NEURO-SLEEPER-001`, `SC-TIG-001`, `SC-CT-001` v1.1.0, `SC-DOMAIN-EXPANSION-001`, `SC-SB-001`, `SC-HS-001` v1.1.0, `SC-IT-OCTO-RNA-EDIT-001`, and 8 `SC-LU-SAO-*` entries), **24-class Invariant Catalog**, and **547 pytest + 239 unittest** verification suites.
+- **Semantic Compiler Kernel (`V3.8.0`)** — Evidence-conditioned, cross-domain semantic compilation pipeline featuring **46 YAML domain templates**, the **Japanese Automated Parking Tower Domain Elevator** (O(1) inverted rack index, ~20x `SemanticTicket` compression, cross-domain turntable `rotate_to()`, ~108x cold-start JSON cache), **17 SHA-256-verified canonical compiled entries** (`SC-DIVINE-RLHF-001`, `SC-NEURO-SLEEPER-001`, `SC-TIG-001`, `SC-CT-001` v1.1.0, `SC-DOMAIN-EXPANSION-001`, `SC-SB-001`, `SC-HS-001` v1.1.0, `SC-IT-OCTO-RNA-EDIT-001`, `SC-OMNI-001` v2.0.0, and 8 `SC-LU-SAO-*` entries), **25-class Invariant Catalog**, and **555 pytest + 247 unittest** verification suites.
 - **Macro GrokBot · Semantic Brain (`v2.1.0`)** — Cloudflare Workers/KV/R2 Central Brain + Native Android App + Live Remote MCP Server + Best-Model-for-the-Job Smart Task Router connecting Claude, DeepSeek, Gemini, ChatGPT, Grok, GrokBot, and Zubnet Mobile.
 - **S26U EMF Studio (`v2.0.0`)** — Real-hardware Android EMF, multi-band RF spectrum (3GPP NR/LTE MHz, GNSS L1/L5, BLE 2.4 GHz, Wi-Fi 2.4/5/6 GHz), and Camera2 AR spatial HUD instrument backed by Cloudflare Workers/KV/R2.
 - **Desk Architecture Pack & Reflexion Arena UE5.8** — Paper-first multi-agent quantitative desk architecture and deterministic integer UE5.8 simulation engine with hash-chained receipts.
